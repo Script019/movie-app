@@ -178,3 +178,25 @@ main {
   transform: scale(1.05);
   transition: 0.3s ease-in-out;
 }
+
+.movie-details {
+  text-align: center;
+  padding: 20px;
+  max-width: 600px;
+  margin: auto;
+}
+
+.movie-details img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+}
+
+.movie-details h1 {
+  margin-top: 15px;
+}
+
+.movie-details p {
+  font-size: 16px;
+  margin-top: 10px;
+}
